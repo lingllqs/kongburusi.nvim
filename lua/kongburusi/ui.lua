@@ -1,4 +1,4 @@
-local p = require("nightfall.palette")
+local p = require("kongburusi.palette")
 local set = vim.api.nvim_set_hl
 
 set(0, "LineNr", { fg = p.fg_dim })

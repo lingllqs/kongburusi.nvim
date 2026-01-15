@@ -1,5 +1,5 @@
 local set = vim.api.nvim_set_hl
-local p = require("nightfall.palette")
+local p = require("kongburusi.palette")
 
 local links = {
   ["@comment"] = "Comment",
