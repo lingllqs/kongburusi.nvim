@@ -1,4 +1,4 @@
-vim.cmd("hightlight clear") -- 清除高亮
+vim.cmd("highlight clear") -- 清除高亮
 
 if vim.fn.exists("syntax_on") then
 	vim.cmd("syntax reset")
