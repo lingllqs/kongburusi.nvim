@@ -10,7 +10,7 @@ set(0, "Number",  { fg = palette.yellow })
 set(0, "Boolean", { fg = palette.yellow })
 
 set(0, "Function", { fg = palette.blue })
-set(0, "Keyword",  { fg = palette.red, bold = true })
+set(0, "Keyword",  { fg = palette.orange, bold = true })
 set(0, "Type",     { fg = palette.purple })
 set(0, "Constant", { fg = palette.cyan })
 set(0, "Identifier", { fg = palette.fg })

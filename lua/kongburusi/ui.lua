@@ -5,7 +5,7 @@ set(0, "LineNr", { fg = p.fg_dim })
 set(0, "CursorLineNr", { fg = p.yellow, bold = true })
 set(0, "CursorLine", { bg = p.bg_alt })
 
-set(0, "Visual", { bg = "#2d333b" })
+set(0, "Visual", { bg = "#3d434b" })
 
 set(0, "VertSplit", { fg = p.border })
 
